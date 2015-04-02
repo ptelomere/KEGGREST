@@ -1,4 +1,4 @@
-Package: KEGGREST
+Package: KEGGREST 
 Version: 1.7.5
 Title: Client-side REST access to KEGG
 Author: Dan Tenenbaum
